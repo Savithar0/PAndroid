@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Um App</string>
+    <string name="btnLogin">Logar</string>
+    <string name="passHint">Senha</string>
+    <string name="chekterms">Aceito os termos</string>
+    <string name="nameHint">Nome</string>
+    <string name="nameApp">Um App</string>
+</resources>

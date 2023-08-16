@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">The App</string>
+    <string name="altura_botao" translatable="false">183dp</string>
+    <string name="btnLogin">Login</string>
+    <string name="passHint">Password</string>
+    <string name="chekterms">Accept terms</string>
+    <string name="nameHint">Name</string>
+    <string name="nameApp">The App</string>
 </resources>
